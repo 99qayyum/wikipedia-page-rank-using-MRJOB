@@ -1,0 +1,14 @@
+Assigment code is divided in following parts
+1) Reading of xml data,
+   MrJob did not provide function for xlm reading.
+   Mrjob read a file in "util.py", a piece of code is 
+   writtern from line "readinput" function of util that 
+   will handle the xml
+
+2) Job1.py , Job2.py , .pyJob3.py
+   These jobs do the same thing that was mention in reference link
+
+3) Matplotlib
+   this code maps the ranks of pages top 100 ranked page as histrogram.
+
+The code was run on first 250,000 Pages of wikidump and result are shown.
