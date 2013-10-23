@@ -1,0 +1,5 @@
+# Command to Compile a MRJOB python code , so that consule output is writtern to a specific Directory
+python job1.py ../nlwiki-latest-pages-articles.xml_2  --no-output --output-dir ./job1
+
+# and modified file the, for xml parsing
+/usr/local/lib/python2.7/site-packages/mrjob/util.py
